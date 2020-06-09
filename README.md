@@ -1,4 +1,4 @@
-# Binary-Classification-Web-App
+# Mushroom Classifier Web App
 This repository contains code to deploy a web app on your local host using streamlit
 We are using Mushrooms dataset for our classification purposes.<br>
 <br> To view the web app please visit this link : https://mushroom-classifier-app.herokuapp.com/ </br>
